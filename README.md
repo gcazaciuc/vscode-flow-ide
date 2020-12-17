@@ -1,7 +1,7 @@
-# vscode-flow-ide
+# jedwards1211.vscode-flow-ide
 
-An alternative Flowtype extension for Visual Studio Code. Flowtype is a static type checker
-meant to find errors in Javascript programs.
+An alternative-alternative Flowtype extension for Visual Studio Code. This is my heavily cleaned up fork of vscode-flow-ide.
+Flowtype is a static type checker meant to find errors in Javascript programs.
 
 ## Features
 

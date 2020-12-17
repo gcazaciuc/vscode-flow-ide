@@ -1,1 +1,1 @@
-declare module 'cross-spawn';
+declare module 'cross-spawn'
